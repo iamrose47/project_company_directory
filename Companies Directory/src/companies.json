@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "TechNova Labs",
+    "industry": "Software",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 2,
+    "name": "EcoVision Pvt Ltd",
+    "industry": "Environment",
+    "location": "Bangalore"
+  },
+  {
+    "id": 3,
+    "name": "MediCore Solutions",
+    "industry": "Healthcare",
+    "location": "Delhi"
+  },
+  {
+    "id": 4,
+    "name": "DataPulse Analytics",
+    "industry": "Data Science",
+    "location": "Mumbai"
+  },
+  {
+    "id": 5,
+    "name": "GreenWorld Energy",
+    "industry": "Renewable Energy",
+    "location": "Chennai"
+  },
+  {
+    "id": 6,
+    "name": "CodeCraft Technologies",
+    "industry": "Software",
+    "location": "Pune"
+  },
+  {
+    "id": 7,
+    "name": "Visionary Designs",
+    "industry": "Design",
+    "location": "Kolkata"
+  },
+  {
+    "id": 8,
+    "name": "AeroTech Systems",
+    "industry": "Aerospace",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 9,
+    "name": "SmartAgri Solutions",
+    "industry": "Agritech",
+    "location": "Bangalore"
+  },
+  {
+    "id": 10,
+    "name": "FinEdge Capital",
+    "industry": "Finance",
+    "location": "Mumbai"
+  }
+]
